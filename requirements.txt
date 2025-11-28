@@ -1,21 +1,10 @@
-* Numpy
-* Pandas
-* Matplotlib
-* Mplfinance
-* Seaborn
-* Plotly
-* SciPy
-* Statsmodels
-* Scikit-learn
-* Keras
-* TensorFlow
-* Yfinance
-* Beautiful Soup
-* Selenium
-* NLTK
-* TextBlob
-* SpaCy
-* Gensim
-* BERT
-* Hugging Face
-* PyTorch
+streamlit
+pandas
+numpy
+matplotlib
+Pillow
+joblib
+scikit-learn
+statsmodels
+# prophet
+# tensorflow
