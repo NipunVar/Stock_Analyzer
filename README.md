@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stock Prediction
 Technical and sentiment analysis to predict the stock market.
 
@@ -88,11 +87,3 @@ Pipelines will be built, and various Gradient-Descent based, Distance-Based and 
 * BERT
 * Hugging Face
 * PyTorch
-=======
-# Stock Analyzer
-
-Author: Nipun Varshneya  
-Contact: varshneya.nipun16@gmail.com
-
-See https://github.com/NipunVar/Stock_Analyzer
->>>>>>> aec67ca (Initial commit: add Stock project)
