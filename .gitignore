@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 __pycache__/
 *.py[cod]
@@ -128,3 +129,19 @@ output/
 
 
 *.pkl
+=======
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+.env
+venv/
+.env/
+.DS_Store
+*.log
+data/
+*.csv
+>>>>>>> aec67ca (Initial commit: add Stock project)
